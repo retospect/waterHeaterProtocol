@@ -6,3 +6,5 @@ It's a [RS-485](https://en.wikipedia.org/wiki/RS-485) bus.
 It uses an AC UCM connector, also carries AC (110V?220V?)? Please send me part numbers if you find out.
 
 This is true for the [HPTU-80CTA](https://www.hotwater.com/Water-Heaters/Residential/Electric/ProLine/XE/Voltex-Hybrid-Electric/Voltex-Hybrid-Electric-Heat-Pump-Water-Heater-with-CTA-2045-HPTU-80CTA/), [HPTU-66CTA](https://www.hotwater.com/Water-Heaters/Residential/Electric/ProLine/XE/Voltex-Hybrid-Electric/Voltex-Hybrid-Electric-Heat-Pump-Water-Heater-with-CTA-2045-HPTU-66CTA/) and the [HPTU-50CTA](https://www.hotwater.com/Water-Heaters/Residential/Electric/ProLine/XE/Voltex-Hybrid-Electric/Voltex-Hybrid-Electric-Heat-Pump-Water-Heater-with-CTA-2045-HPTU-50CTA/)
+
+This [instructable](https://www.instructables.com/AO-Smith-Water-Heater-Monitor-Lowes-IRIS/) is modifying an IRIS system.
